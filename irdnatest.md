@@ -2,4 +2,4 @@
 
 name | student number | hobby | other info | photo
 ---|---|---|---|---
-irdina | 24b2011 | drawing |i like samyang| ![](https://th.bing.com/th/id/R.e51d453c1c839e441bde5fe8d6f29bb8?rik=rSV2iqHyfkFf8w&pid=ImgRaw&r=0)
+irdina | 24b2011 | drawing |i like samyang| ![](https://th.bing.com/th/id/OIP.pv8vnJHD6j_eIKZa03zVSAAAAA?rs=1&pid=ImgDetMain)
